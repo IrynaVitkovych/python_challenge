@@ -11,9 +11,7 @@ The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in profits (date and amount) over the entire period.
 
 Your analysis should align with the following results:
-
 Financial Analysis
-______________________________________________
 Total Months: 86
 Total: $22564198
 Average Change: $-8311.11
@@ -23,10 +21,10 @@ Greatest Decrease in Profits: Feb-14 ($-1825558)
 Python script can be found in the "main.py" file. The file with text results is in the "analysis" folder in the "budget_analasis.txt" file. In the resources folder, you can find the data file that was given for this task.
 
 
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-
-2. PyPoll is tasked with helping a small, rural town modernize its vote-counting process. Python script should analyzes the votes and calculates each of the following values:
+2. PyPoll is tasked with helping a small, rural town modernize its vote-counting process. Python script should analyze the votes and calculate each of the following values:
 The total number of votes cast
 A complete list of candidates who received votes
 The percentage of votes each candidate won
@@ -34,9 +32,7 @@ The total number of votes each candidate won
 The winner of the election based on popular vote
 
 Your analysis should align with the following results:
-
 Election Results
-_____________________________________________
 Total Votes: 369711
 Charles Casper Stockham: 23.049% (85213)
 Diana DeGette: 73.812% (272892)
@@ -45,4 +41,4 @@ Winner: Diana DeGette
 
 Python script can be found in the "main.py" file. The file with text results is in the "analysis" folder in the "budget_analasis.txt" file. In the resources folder, you can find the data file that was given for this task.
 
-While working on this module, I used Google, Xpert Learning Assistant, Chat GPT and tutor sessions, which helped me build the code.
+While working on this module, I used Google, Xpert Learning Assistant, Chat GPT, and tutor sessions, which helped me build the code.
